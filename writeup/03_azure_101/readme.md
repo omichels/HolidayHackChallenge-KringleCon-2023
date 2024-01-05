@@ -4,7 +4,7 @@
 
 ### Location 
 
-Christmas Istland: Rudolph's Rest (scroll to the left)
+Christmas Island: Rudolph's Rest (walk to the left most part of the island)
 
 Also note the "Penetration Test Report" in the middle of the Island
 for some very usefull hints about the later challenges (esp. SSHenanigans)
